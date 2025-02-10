@@ -32,7 +32,7 @@ See more details here for more information: https://www.wpbeginner.com/wp-tutori
 Simply deactivate and delete the plugin. 
  
 == Screenshots ==
-1. Cyan paragraph modal w/ Chris Luhring's Github and LinkedIn accounts.
+![Cyan paragraph modal w/ Chris Luhring's Github and LinkedIn accounts](./paragraph.png?raw=true "Cyan paragraph modal w/ Chris Luhring's Github and LinkedIn accounts")
  
 == Changelog ==
 = 1.0 =
