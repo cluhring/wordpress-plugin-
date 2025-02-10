@@ -1,14 +1,13 @@
 /*
-Plugin Name:  Chris Luhring's WPBeginner Plugin Tutorial
-Plugin URI:   https://www.wpbeginner.com
+Plugin Name:  Chris Luhring's First WP Paragraph Adder
+Plugin URI:   https://www.wpbeginner.com/wp-tutorials/how-to-create-a-wordpress-plugin/
 Description:  This Plugin will insert an animated follow me message linking to github and linkedin accounts. Displayed on the Plugins page in WordPress admin area.
-Version:      10.0
+Version:      1.0
 Author:       WPBeginner
 Author URI:   https://www.wpbeginner.com
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain:  wpb-tutorial
-Domain Path:  /languages
+Text Domain:  chris-luhrings-first-wp-paragraph-adder
 */
 
 <?php
