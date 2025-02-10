@@ -32,7 +32,7 @@ See more details here for more information: https://www.wpbeginner.com/wp-tutori
 Simply deactivate and delete the plugin. 
  
 == Screenshots ==
-![Cyan paragraph modal w/ Chris Luhring's Github and LinkedIn accounts](https://raw.githubusercontent.com/cluhring/wordpress-plugin-/main/paragraph.png)
+![Cyan paragraph modal w/ Chris Luhring's Github and LinkedIn accounts](/paragraph.png)
  
 == Changelog ==
 = 1.0 =
