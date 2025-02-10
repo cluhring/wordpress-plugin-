@@ -1,4 +1,4 @@
-=== Chris Luhring's First WordPress Plugin ===
+=== Chris Luhring's First WordPress Paragraph Adder ===
 Contributors: WPBeginner, @cluhring
 Tags: wpbeginner, plugin tutorial
 Requires at least: 6.0
